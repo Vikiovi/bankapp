@@ -1,0 +1,22 @@
+[
+{"accountNo" : "11111111-22222222", "currency" : "HUF", "amount" : "-30000.00", "exRate" : ""},
+{"accountNo" : "11111111-22222222", "currency" : "USD", "amount" : "-49.99", "exRate" : "257.21"},  
+{"accountNo" : "22222222-33333333", "currency" : "USD", "amount" : "-21.00", "exRate" : ""},
+{"accountNo" : "22222222-33333333", "currency" : "CAD", "amount" : "129.90", "exRate" : "1.25"},
+{"accountNo" : "11111111-22222222", "currency" : "HUF", "amount" : "5.00", "exRate" : ""},
+{"accountNo" : "11111111-22222222", "currency" : "USD", "amount" : "6.00", "exRate" : "257.21"},  
+{"accountNo" : "22222222-33333333", "currency" : "USD", "amount" : "7.00", "exRate" : ""},
+{"accountNo" : "22222222-33333333", "currency" : "CAD", "amount" : "8.00", "exRate" : "1.25"},
+{"accountNo" : "22222222-33333333", "currency" : "USD", "amount" : "9.00", "exRate" : ""},
+{"accountNo" : "22222222-33333333", "currency" : "CAD", "amount" : "10.00", "exRate" : "1.25"},
+{"accountNo" : "11111111-22222222", "currency" : "HUF", "amount" : "11.00", "exRate" : ""},
+{"accountNo" : "11111111-22222222", "currency" : "USD", "amount" : "12.00", "exRate" : "257.21"},
+{"accountNo" : "22222222-33333333", "currency" : "USD", "amount" : "13.00", "exRate" : ""},
+{"accountNo" : "22222222-33333333", "currency" : "CAD", "amount" : "14.00", "exRate" : "1.25"},
+{"accountNo" : "11111111-22222222", "currency" : "HUF", "amount" : "15.00", "exRate" : ""},
+{"accountNo" : "11111111-22222222", "currency" : "USD", "amount" : "16.00", "exRate" : "257.21"},
+{"accountNo" : "22222222-33333333", "currency" : "USD", "amount" : "17.00", "exRate" : ""},
+{"accountNo" : "22222222-33333333", "currency" : "CAD", "amount" : "18.00", "exRate" : "1.25"},
+{"accountNo" : "11111111-22222222", "currency" : "HUF", "amount" : "19.00", "exRate" : ""},
+{"accountNo" : "11111111-22222222", "currency" : "USD", "amount" : "20.00", "exRate" : "257.21"}
+]
